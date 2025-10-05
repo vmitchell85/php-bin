@@ -23,5 +23,7 @@
     "simplexml",
     "sockets",
     "tokenizer",
-    "zip"
+    "zip",
+    "mysqlnd",
+    "mysqli"
 ]
